@@ -111,7 +111,7 @@ params:
       graduation: "year"
 
   # Projects
-  disable_projects: false
+  disable_projects: true
   projects:
     - name: "Example project without details"
       img: /images/project.jpg
